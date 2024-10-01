@@ -71,4 +71,4 @@ This project can be adapted for real-world scenarios like:
 - **Customer Satisfaction Reporting**: Providing insights into how well customer service teams are performing, based on satisfaction scores.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
