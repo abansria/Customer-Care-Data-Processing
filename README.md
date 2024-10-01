@@ -1,7 +1,7 @@
 
 # Customer Care Data Processing
 
-This project automates the processing and analysis of customer care data, specifically designed to enhance customer support operations by tracking key performance metrics such as inquiry types, resolution times, and customer satisfaction. This Python-based solution aligns with real-world customer care roles, like the one at EQ Bank, where managing and analyzing customer interactions efficiently is critical for maintaining high service standards.
+This project automates the processing and analysis of customer care data, specifically designed to enhance customer support operations by tracking key performance metrics such as inquiry types, resolution times, and customer satisfaction. This Python-based solution aligns with real-world customer care roles, where managing and analyzing customer interactions efficiently is critical for maintaining high service standards.
 
 ## Features
 - **Automated Data Processing**: Automatically parses and processes customer inquiries, including account-related issues, payment problems, and fund transfers.
