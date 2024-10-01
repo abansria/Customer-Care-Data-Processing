@@ -23,7 +23,7 @@ Customer-Care-Data-Processing/
 ├── README.md                            # Project documentation (this file)
 ├── requirements.txt                     # Required Python packages (if any)
 └── LICENSE                              # License file
-└──	Citation_References.docx      			 # Links to the references in the code (academic)
+└──Citation_References.docx      			 # Links to the references in the code (academic)
 ```
 
 ## How to Run the Project
