@@ -1,0 +1,341 @@
+inquiry_type = "New Account Setup"; resolution_time = "17m"; customer_satisfaction = "5/5": ticket001
+inquiry_type = "Account Deactivation"; resolution_time = "2m"; customer_satisfaction = "5/5": ticket002, ticket480
+inquiry_type = "Fund Transfer"; resolution_time = "4m"; customer_satisfaction = "3/5": ticket003
+inquiry_type = "Fund Transfer"; resolution_time = "12m"; customer_satisfaction = "1/5": ticket004, ticket038
+inquiry_type = "Account Balance"; resolution_time = "9m"; customer_satisfaction = "2/5": ticket005
+inquiry_type = "Fund Transfer"; resolution_time = "8m"; customer_satisfaction = "3/5": ticket006, ticket316, ticket334
+inquiry_type = "Fund Transfer"; resolution_time = "18m"; customer_satisfaction = "2/5": ticket007, ticket018, ticket178
+inquiry_type = "Fund Transfer"; resolution_time = "12m"; customer_satisfaction = "5/5": ticket008
+inquiry_type = "Account Balance"; resolution_time = "2m"; customer_satisfaction = "1/5": ticket009, ticket083, ticket295
+inquiry_type = "Password Reset"; resolution_time = "3m"; customer_satisfaction = "4/5": ticket010
+inquiry_type = "Fund Transfer"; resolution_time = "9m"; customer_satisfaction = "3/5": ticket011, ticket070, ticket237
+inquiry_type = "Password Reset"; resolution_time = "3m"; customer_satisfaction = "2/5": ticket012
+inquiry_type = "Payment Issue"; resolution_time = "10m"; customer_satisfaction = "4/5": ticket013, ticket369
+inquiry_type = "Fund Transfer"; resolution_time = "13m"; customer_satisfaction = "3/5": ticket014
+inquiry_type = "Payment Issue"; resolution_time = "9m"; customer_satisfaction = "1/5": ticket015
+inquiry_type = "Payment Issue"; resolution_time = "7m"; customer_satisfaction = "4/5": ticket016, ticket279
+inquiry_type = "Account Deactivation"; resolution_time = "4m"; customer_satisfaction = "2/5": ticket017, ticket441
+inquiry_type = "Account Balance"; resolution_time = "7m"; customer_satisfaction = "4/5": ticket019, ticket453
+inquiry_type = "Password Reset"; resolution_time = "15m"; customer_satisfaction = "2/5": ticket020
+inquiry_type = "Mobile App Assistance"; resolution_time = "18m"; customer_satisfaction = "3/5": ticket021, ticket174
+inquiry_type = "Account Balance"; resolution_time = "8m"; customer_satisfaction = "1/5": ticket022
+inquiry_type = "Password Reset"; resolution_time = "17m"; customer_satisfaction = "2/5": ticket023, ticket351, ticket452
+inquiry_type = "Account Balance"; resolution_time = "11m"; customer_satisfaction = "3/5": ticket024, ticket026, ticket125
+inquiry_type = "Fund Transfer"; resolution_time = "9m"; customer_satisfaction = "1/5": ticket025
+inquiry_type = "Account Deactivation"; resolution_time = "6m"; customer_satisfaction = "3/5": ticket027
+inquiry_type = "Fund Transfer"; resolution_time = "20m"; customer_satisfaction = "2/5": ticket028, ticket466
+inquiry_type = "New Account Setup"; resolution_time = "4m"; customer_satisfaction = "5/5": ticket029
+inquiry_type = "Account Balance"; resolution_time = "13m"; customer_satisfaction = "4/5": ticket030, ticket190
+inquiry_type = "Account Deactivation"; resolution_time = "10m"; customer_satisfaction = "4/5": ticket031
+inquiry_type = "Payment Issue"; resolution_time = "14m"; customer_satisfaction = "5/5": ticket032
+inquiry_type = "New Account Setup"; resolution_time = "15m"; customer_satisfaction = "1/5": ticket033
+inquiry_type = "Payment Issue"; resolution_time = "20m"; customer_satisfaction = "4/5": ticket034
+inquiry_type = "Mobile App Assistance"; resolution_time = "8m"; customer_satisfaction = "5/5": ticket035, ticket267, ticket365, ticket394
+inquiry_type = "Mobile App Assistance"; resolution_time = "16m"; customer_satisfaction = "3/5": ticket036, ticket311
+inquiry_type = "Payment Issue"; resolution_time = "19m"; customer_satisfaction = "5/5": ticket037, ticket068, ticket076
+inquiry_type = "Account Balance"; resolution_time = "5m"; customer_satisfaction = "4/5": ticket039, ticket282, ticket294, ticket447
+inquiry_type = "Account Balance"; resolution_time = "13m"; customer_satisfaction = "2/5": ticket040
+inquiry_type = "Fund Transfer"; resolution_time = "7m"; customer_satisfaction = "4/5": ticket041
+inquiry_type = "Fund Transfer"; resolution_time = "15m"; customer_satisfaction = "2/5": ticket042
+inquiry_type = "Mobile App Assistance"; resolution_time = "2m"; customer_satisfaction = "1/5": ticket043
+inquiry_type = "Mobile App Assistance"; resolution_time = "5m"; customer_satisfaction = "2/5": ticket044
+inquiry_type = "Payment Issue"; resolution_time = "20m"; customer_satisfaction = "3/5": ticket045, ticket252
+inquiry_type = "Payment Issue"; resolution_time = "2m"; customer_satisfaction = "3/5": ticket046, ticket128, ticket299, ticket465
+inquiry_type = "Account Deactivation"; resolution_time = "17m"; customer_satisfaction = "5/5": ticket047, ticket087
+inquiry_type = "New Account Setup"; resolution_time = "4m"; customer_satisfaction = "4/5": ticket048, ticket091
+inquiry_type = "Mobile App Assistance"; resolution_time = "9m"; customer_satisfaction = "2/5": ticket049
+inquiry_type = "Account Deactivation"; resolution_time = "13m"; customer_satisfaction = "4/5": ticket050, ticket104, ticket213, ticket229, ticket240
+inquiry_type = "Payment Issue"; resolution_time = "13m"; customer_satisfaction = "3/5": ticket051, ticket343
+inquiry_type = "Account Balance"; resolution_time = "2m"; customer_satisfaction = "4/5": ticket052, ticket113
+inquiry_type = "Mobile App Assistance"; resolution_time = "13m"; customer_satisfaction = "3/5": ticket053, ticket221
+inquiry_type = "New Account Setup"; resolution_time = "19m"; customer_satisfaction = "5/5": ticket054, ticket219
+inquiry_type = "New Account Setup"; resolution_time = "18m"; customer_satisfaction = "1/5": ticket055
+inquiry_type = "Account Balance"; resolution_time = "16m"; customer_satisfaction = "3/5": ticket056, ticket455
+inquiry_type = "Account Deactivation"; resolution_time = "6m"; customer_satisfaction = "4/5": ticket057, ticket086
+inquiry_type = "Account Balance"; resolution_time = "5m"; customer_satisfaction = "3/5": ticket058
+inquiry_type = "Account Balance"; resolution_time = "10m"; customer_satisfaction = "1/5": ticket059
+inquiry_type = "Mobile App Assistance"; resolution_time = "6m"; customer_satisfaction = "2/5": ticket060
+inquiry_type = "Fund Transfer"; resolution_time = "10m"; customer_satisfaction = "1/5": ticket061, ticket064
+inquiry_type = "Password Reset"; resolution_time = "8m"; customer_satisfaction = "5/5": ticket062, ticket183
+inquiry_type = "New Account Setup"; resolution_time = "20m"; customer_satisfaction = "5/5": ticket063
+inquiry_type = "Password Reset"; resolution_time = "2m"; customer_satisfaction = "4/5": ticket065
+inquiry_type = "Fund Transfer"; resolution_time = "6m"; customer_satisfaction = "1/5": ticket066
+inquiry_type = "Fund Transfer"; resolution_time = "16m"; customer_satisfaction = "3/5": ticket067, ticket134
+inquiry_type = "Mobile App Assistance"; resolution_time = "7m"; customer_satisfaction = "3/5": ticket069, ticket375
+inquiry_type = "Password Reset"; resolution_time = "12m"; customer_satisfaction = "3/5": ticket071, ticket146, ticket353
+inquiry_type = "New Account Setup"; resolution_time = "9m"; customer_satisfaction = "1/5": ticket072, ticket193
+inquiry_type = "Account Balance"; resolution_time = "12m"; customer_satisfaction = "5/5": ticket073
+inquiry_type = "Account Deactivation"; resolution_time = "12m"; customer_satisfaction = "5/5": ticket074
+inquiry_type = "New Account Setup"; resolution_time = "17m"; customer_satisfaction = "1/5": ticket075, ticket257
+inquiry_type = "Payment Issue"; resolution_time = "19m"; customer_satisfaction = "1/5": ticket077, ticket256
+inquiry_type = "Fund Transfer"; resolution_time = "11m"; customer_satisfaction = "5/5": ticket078, ticket300, ticket321
+inquiry_type = "Password Reset"; resolution_time = "16m"; customer_satisfaction = "4/5": ticket079
+inquiry_type = "New Account Setup"; resolution_time = "2m"; customer_satisfaction = "3/5": ticket080, ticket135, ticket227, ticket472
+inquiry_type = "Password Reset"; resolution_time = "19m"; customer_satisfaction = "3/5": ticket081
+inquiry_type = "Mobile App Assistance"; resolution_time = "8m"; customer_satisfaction = "1/5": ticket082
+inquiry_type = "Payment Issue"; resolution_time = "3m"; customer_satisfaction = "4/5": ticket084
+inquiry_type = "Fund Transfer"; resolution_time = "7m"; customer_satisfaction = "2/5": ticket085, ticket235, ticket488
+inquiry_type = "Password Reset"; resolution_time = "6m"; customer_satisfaction = "3/5": ticket088, ticket429
+inquiry_type = "Account Deactivation"; resolution_time = "20m"; customer_satisfaction = "4/5": ticket089
+inquiry_type = "Account Balance"; resolution_time = "11m"; customer_satisfaction = "1/5": ticket090
+inquiry_type = "Account Deactivation"; resolution_time = "19m"; customer_satisfaction = "5/5": ticket092, ticket136
+inquiry_type = "Password Reset"; resolution_time = "14m"; customer_satisfaction = "1/5": ticket093
+inquiry_type = "Mobile App Assistance"; resolution_time = "20m"; customer_satisfaction = "5/5": ticket094, ticket140
+inquiry_type = "Password Reset"; resolution_time = "3m"; customer_satisfaction = "1/5": ticket095
+inquiry_type = "Password Reset"; resolution_time = "8m"; customer_satisfaction = "2/5": ticket096, ticket220, ticket352, ticket408, ticket459
+inquiry_type = "Password Reset"; resolution_time = "11m"; customer_satisfaction = "2/5": ticket097
+inquiry_type = "Account Deactivation"; resolution_time = "14m"; customer_satisfaction = "2/5": ticket098, ticket211, ticket368
+inquiry_type = "Password Reset"; resolution_time = "17m"; customer_satisfaction = "3/5": ticket099
+inquiry_type = "Fund Transfer"; resolution_time = "10m"; customer_satisfaction = "5/5": ticket100
+inquiry_type = "Mobile App Assistance"; resolution_time = "17m"; customer_satisfaction = "4/5": ticket101
+inquiry_type = "Account Balance"; resolution_time = "6m"; customer_satisfaction = "4/5": ticket102, ticket435
+inquiry_type = "Payment Issue"; resolution_time = "15m"; customer_satisfaction = "4/5": ticket103, ticket122
+inquiry_type = "Mobile App Assistance"; resolution_time = "8m"; customer_satisfaction = "4/5": ticket105, ticket238
+inquiry_type = "Password Reset"; resolution_time = "18m"; customer_satisfaction = "2/5": ticket106
+inquiry_type = "New Account Setup"; resolution_time = "14m"; customer_satisfaction = "1/5": ticket107
+inquiry_type = "Fund Transfer"; resolution_time = "17m"; customer_satisfaction = "5/5": ticket108, ticket360, ticket433
+inquiry_type = "Payment Issue"; resolution_time = "7m"; customer_satisfaction = "2/5": ticket109, ticket364
+inquiry_type = "New Account Setup"; resolution_time = "20m"; customer_satisfaction = "3/5": ticket110, ticket438
+inquiry_type = "Account Balance"; resolution_time = "7m"; customer_satisfaction = "2/5": ticket111
+inquiry_type = "Mobile App Assistance"; resolution_time = "2m"; customer_satisfaction = "5/5": ticket112
+inquiry_type = "Account Balance"; resolution_time = "20m"; customer_satisfaction = "3/5": ticket114, ticket149, ticket345
+inquiry_type = "Account Deactivation"; resolution_time = "7m"; customer_satisfaction = "1/5": ticket115, ticket169
+inquiry_type = "Account Balance"; resolution_time = "10m"; customer_satisfaction = "2/5": ticket116
+inquiry_type = "Account Deactivation"; resolution_time = "14m"; customer_satisfaction = "1/5": ticket117
+inquiry_type = "Account Balance"; resolution_time = "9m"; customer_satisfaction = "4/5": ticket118
+inquiry_type = "Payment Issue"; resolution_time = "18m"; customer_satisfaction = "5/5": ticket119
+inquiry_type = "Mobile App Assistance"; resolution_time = "15m"; customer_satisfaction = "1/5": ticket120
+inquiry_type = "New Account Setup"; resolution_time = "16m"; customer_satisfaction = "2/5": ticket121, ticket231, ticket412, ticket498
+inquiry_type = "Password Reset"; resolution_time = "5m"; customer_satisfaction = "5/5": ticket123, ticket449
+inquiry_type = "Password Reset"; resolution_time = "19m"; customer_satisfaction = "1/5": ticket124
+inquiry_type = "Mobile App Assistance"; resolution_time = "12m"; customer_satisfaction = "1/5": ticket126, ticket270
+inquiry_type = "New Account Setup"; resolution_time = "13m"; customer_satisfaction = "1/5": ticket127
+inquiry_type = "Password Reset"; resolution_time = "2m"; customer_satisfaction = "5/5": ticket129
+inquiry_type = "New Account Setup"; resolution_time = "11m"; customer_satisfaction = "4/5": ticket130, ticket484
+inquiry_type = "Account Balance"; resolution_time = "3m"; customer_satisfaction = "4/5": ticket131
+inquiry_type = "Password Reset"; resolution_time = "10m"; customer_satisfaction = "1/5": ticket132, ticket340
+inquiry_type = "Fund Transfer"; resolution_time = "7m"; customer_satisfaction = "5/5": ticket133
+inquiry_type = "Payment Issue"; resolution_time = "6m"; customer_satisfaction = "1/5": ticket137
+inquiry_type = "Mobile App Assistance"; resolution_time = "15m"; customer_satisfaction = "5/5": ticket138
+inquiry_type = "New Account Setup"; resolution_time = "12m"; customer_satisfaction = "1/5": ticket139
+inquiry_type = "Account Deactivation"; resolution_time = "18m"; customer_satisfaction = "3/5": ticket141, ticket335
+inquiry_type = "Mobile App Assistance"; resolution_time = "9m"; customer_satisfaction = "1/5": ticket142
+inquiry_type = "Mobile App Assistance"; resolution_time = "13m"; customer_satisfaction = "1/5": ticket143, ticket226, ticket425
+inquiry_type = "New Account Setup"; resolution_time = "7m"; customer_satisfaction = "1/5": ticket144, ticket195
+inquiry_type = "Account Balance"; resolution_time = "3m"; customer_satisfaction = "3/5": ticket145
+inquiry_type = "Mobile App Assistance"; resolution_time = "12m"; customer_satisfaction = "2/5": ticket147
+inquiry_type = "Account Deactivation"; resolution_time = "11m"; customer_satisfaction = "3/5": ticket148
+inquiry_type = "Payment Issue"; resolution_time = "20m"; customer_satisfaction = "1/5": ticket150
+inquiry_type = "Payment Issue"; resolution_time = "4m"; customer_satisfaction = "5/5": ticket151
+inquiry_type = "Fund Transfer"; resolution_time = "3m"; customer_satisfaction = "1/5": ticket152
+inquiry_type = "Mobile App Assistance"; resolution_time = "18m"; customer_satisfaction = "4/5": ticket153, ticket308
+inquiry_type = "Account Deactivation"; resolution_time = "6m"; customer_satisfaction = "5/5": ticket154, ticket198, ticket430
+inquiry_type = "Mobile App Assistance"; resolution_time = "20m"; customer_satisfaction = "4/5": ticket155, ticket362
+inquiry_type = "Password Reset"; resolution_time = "6m"; customer_satisfaction = "4/5": ticket156, ticket381
+inquiry_type = "Payment Issue"; resolution_time = "4m"; customer_satisfaction = "2/5": ticket157, ticket249, ticket454
+inquiry_type = "Account Balance"; resolution_time = "18m"; customer_satisfaction = "3/5": ticket158, ticket446
+inquiry_type = "Mobile App Assistance"; resolution_time = "3m"; customer_satisfaction = "5/5": ticket159, ticket346
+inquiry_type = "Password Reset"; resolution_time = "18m"; customer_satisfaction = "5/5": ticket160
+inquiry_type = "Fund Transfer"; resolution_time = "4m"; customer_satisfaction = "2/5": ticket161, ticket426
+inquiry_type = "Mobile App Assistance"; resolution_time = "18m"; customer_satisfaction = "1/5": ticket162, ticket325
+inquiry_type = "Account Deactivation"; resolution_time = "2m"; customer_satisfaction = "2/5": ticket163
+inquiry_type = "Password Reset"; resolution_time = "11m"; customer_satisfaction = "4/5": ticket164, ticket293, ticket323
+inquiry_type = "Account Deactivation"; resolution_time = "18m"; customer_satisfaction = "4/5": ticket165
+inquiry_type = "Mobile App Assistance"; resolution_time = "7m"; customer_satisfaction = "1/5": ticket166, ticket471
+inquiry_type = "Payment Issue"; resolution_time = "10m"; customer_satisfaction = "5/5": ticket167
+inquiry_type = "Fund Transfer"; resolution_time = "15m"; customer_satisfaction = "1/5": ticket168
+inquiry_type = "Payment Issue"; resolution_time = "18m"; customer_satisfaction = "3/5": ticket170
+inquiry_type = "Payment Issue"; resolution_time = "11m"; customer_satisfaction = "5/5": ticket171, ticket205
+inquiry_type = "Account Deactivation"; resolution_time = "8m"; customer_satisfaction = "5/5": ticket172
+inquiry_type = "New Account Setup"; resolution_time = "20m"; customer_satisfaction = "2/5": ticket173
+inquiry_type = "Account Deactivation"; resolution_time = "12m"; customer_satisfaction = "1/5": ticket175
+inquiry_type = "Account Balance"; resolution_time = "20m"; customer_satisfaction = "4/5": ticket176, ticket329
+inquiry_type = "Fund Transfer"; resolution_time = "9m"; customer_satisfaction = "5/5": ticket177
+inquiry_type = "Mobile App Assistance"; resolution_time = "10m"; customer_satisfaction = "1/5": ticket179
+inquiry_type = "New Account Setup"; resolution_time = "6m"; customer_satisfaction = "3/5": ticket180
+inquiry_type = "Account Balance"; resolution_time = "19m"; customer_satisfaction = "2/5": ticket181, ticket485
+inquiry_type = "Account Deactivation"; resolution_time = "10m"; customer_satisfaction = "1/5": ticket182
+inquiry_type = "Fund Transfer"; resolution_time = "16m"; customer_satisfaction = "2/5": ticket184
+inquiry_type = "Fund Transfer"; resolution_time = "6m"; customer_satisfaction = "3/5": ticket185, ticket475
+inquiry_type = "Mobile App Assistance"; resolution_time = "17m"; customer_satisfaction = "1/5": ticket186
+inquiry_type = "Fund Transfer"; resolution_time = "9m"; customer_satisfaction = "2/5": ticket187
+inquiry_type = "Payment Issue"; resolution_time = "18m"; customer_satisfaction = "1/5": ticket188
+inquiry_type = "New Account Setup"; resolution_time = "10m"; customer_satisfaction = "1/5": ticket189
+inquiry_type = "Account Balance"; resolution_time = "16m"; customer_satisfaction = "2/5": ticket191, ticket305
+inquiry_type = "Payment Issue"; resolution_time = "3m"; customer_satisfaction = "3/5": ticket192, ticket356
+inquiry_type = "Mobile App Assistance"; resolution_time = "5m"; customer_satisfaction = "1/5": ticket194, ticket289
+inquiry_type = "Account Deactivation"; resolution_time = "13m"; customer_satisfaction = "2/5": ticket196, ticket314
+inquiry_type = "Payment Issue"; resolution_time = "17m"; customer_satisfaction = "3/5": ticket197
+inquiry_type = "Payment Issue"; resolution_time = "6m"; customer_satisfaction = "5/5": ticket199
+inquiry_type = "Password Reset"; resolution_time = "3m"; customer_satisfaction = "3/5": ticket200
+inquiry_type = "Mobile App Assistance"; resolution_time = "11m"; customer_satisfaction = "5/5": ticket201
+inquiry_type = "New Account Setup"; resolution_time = "10m"; customer_satisfaction = "3/5": ticket202
+inquiry_type = "Password Reset"; resolution_time = "12m"; customer_satisfaction = "5/5": ticket203, ticket298
+inquiry_type = "Payment Issue"; resolution_time = "8m"; customer_satisfaction = "5/5": ticket204
+inquiry_type = "Password Reset"; resolution_time = "4m"; customer_satisfaction = "2/5": ticket206, ticket215
+inquiry_type = "Account Balance"; resolution_time = "10m"; customer_satisfaction = "4/5": ticket207
+inquiry_type = "Payment Issue"; resolution_time = "8m"; customer_satisfaction = "4/5": ticket208
+inquiry_type = "Mobile App Assistance"; resolution_time = "17m"; customer_satisfaction = "2/5": ticket209
+inquiry_type = "Account Balance"; resolution_time = "13m"; customer_satisfaction = "3/5": ticket210
+inquiry_type = "Account Deactivation"; resolution_time = "12m"; customer_satisfaction = "3/5": ticket212
+inquiry_type = "Password Reset"; resolution_time = "2m"; customer_satisfaction = "2/5": ticket214
+inquiry_type = "Account Balance"; resolution_time = "18m"; customer_satisfaction = "4/5": ticket216, ticket482
+inquiry_type = "Account Deactivation"; resolution_time = "16m"; customer_satisfaction = "1/5": ticket217, ticket271
+inquiry_type = "Account Balance"; resolution_time = "9m"; customer_satisfaction = "5/5": ticket218
+inquiry_type = "New Account Setup"; resolution_time = "13m"; customer_satisfaction = "5/5": ticket222, ticket341
+inquiry_type = "Account Deactivation"; resolution_time = "5m"; customer_satisfaction = "1/5": ticket223
+inquiry_type = "Fund Transfer"; resolution_time = "11m"; customer_satisfaction = "4/5": ticket224, ticket422
+inquiry_type = "Payment Issue"; resolution_time = "13m"; customer_satisfaction = "5/5": ticket225
+inquiry_type = "Account Deactivation"; resolution_time = "14m"; customer_satisfaction = "3/5": ticket228, ticket230, ticket260
+inquiry_type = "Mobile App Assistance"; resolution_time = "17m"; customer_satisfaction = "3/5": ticket232
+inquiry_type = "Fund Transfer"; resolution_time = "8m"; customer_satisfaction = "5/5": ticket233, ticket304, ticket379
+inquiry_type = "Account Deactivation"; resolution_time = "3m"; customer_satisfaction = "1/5": ticket234
+inquiry_type = "Fund Transfer"; resolution_time = "5m"; customer_satisfaction = "1/5": ticket236
+inquiry_type = "Account Deactivation"; resolution_time = "4m"; customer_satisfaction = "1/5": ticket239, ticket307, ticket462
+inquiry_type = "Account Balance"; resolution_time = "20m"; customer_satisfaction = "2/5": ticket241
+inquiry_type = "Mobile App Assistance"; resolution_time = "5m"; customer_satisfaction = "3/5": ticket242
+inquiry_type = "Account Balance"; resolution_time = "12m"; customer_satisfaction = "2/5": ticket243, ticket374, ticket463
+inquiry_type = "Mobile App Assistance"; resolution_time = "2m"; customer_satisfaction = "2/5": ticket244
+inquiry_type = "Account Balance"; resolution_time = "14m"; customer_satisfaction = "1/5": ticket245
+inquiry_type = "Password Reset"; resolution_time = "20m"; customer_satisfaction = "3/5": ticket246
+inquiry_type = "Account Balance"; resolution_time = "10m"; customer_satisfaction = "5/5": ticket247, ticket418
+inquiry_type = "Password Reset"; resolution_time = "9m"; customer_satisfaction = "5/5": ticket248
+inquiry_type = "New Account Setup"; resolution_time = "13m"; customer_satisfaction = "3/5": ticket250, ticket401
+inquiry_type = "Fund Transfer"; resolution_time = "3m"; customer_satisfaction = "5/5": ticket251
+inquiry_type = "Account Deactivation"; resolution_time = "10m"; customer_satisfaction = "5/5": ticket253
+inquiry_type = "New Account Setup"; resolution_time = "12m"; customer_satisfaction = "3/5": ticket254
+inquiry_type = "Password Reset"; resolution_time = "5m"; customer_satisfaction = "1/5": ticket255, ticket428
+inquiry_type = "Account Balance"; resolution_time = "6m"; customer_satisfaction = "3/5": ticket258
+inquiry_type = "Mobile App Assistance"; resolution_time = "2m"; customer_satisfaction = "4/5": ticket259
+inquiry_type = "Mobile App Assistance"; resolution_time = "19m"; customer_satisfaction = "2/5": ticket261, ticket327
+inquiry_type = "Password Reset"; resolution_time = "15m"; customer_satisfaction = "5/5": ticket262, ticket380
+inquiry_type = "New Account Setup"; resolution_time = "10m"; customer_satisfaction = "4/5": ticket263
+inquiry_type = "Mobile App Assistance"; resolution_time = "3m"; customer_satisfaction = "2/5": ticket264, ticket390
+inquiry_type = "Fund Transfer"; resolution_time = "8m"; customer_satisfaction = "1/5": ticket265
+inquiry_type = "Account Balance"; resolution_time = "6m"; customer_satisfaction = "5/5": ticket266
+inquiry_type = "Payment Issue"; resolution_time = "19m"; customer_satisfaction = "3/5": ticket268
+inquiry_type = "Mobile App Assistance"; resolution_time = "12m"; customer_satisfaction = "4/5": ticket269
+inquiry_type = "Mobile App Assistance"; resolution_time = "5m"; customer_satisfaction = "5/5": ticket272, ticket395
+inquiry_type = "Account Deactivation"; resolution_time = "3m"; customer_satisfaction = "5/5": ticket273
+inquiry_type = "Mobile App Assistance"; resolution_time = "3m"; customer_satisfaction = "4/5": ticket274
+inquiry_type = "New Account Setup"; resolution_time = "9m"; customer_satisfaction = "4/5": ticket275
+inquiry_type = "Mobile App Assistance"; resolution_time = "19m"; customer_satisfaction = "5/5": ticket276
+inquiry_type = "Account Deactivation"; resolution_time = "15m"; customer_satisfaction = "5/5": ticket277, ticket434
+inquiry_type = "Account Balance"; resolution_time = "5m"; customer_satisfaction = "1/5": ticket278, ticket487
+inquiry_type = "New Account Setup"; resolution_time = "19m"; customer_satisfaction = "4/5": ticket280
+inquiry_type = "Fund Transfer"; resolution_time = "19m"; customer_satisfaction = "5/5": ticket281, ticket442, ticket483
+inquiry_type = "Password Reset"; resolution_time = "6m"; customer_satisfaction = "1/5": ticket283
+inquiry_type = "Fund Transfer"; resolution_time = "2m"; customer_satisfaction = "4/5": ticket284
+inquiry_type = "Account Deactivation"; resolution_time = "7m"; customer_satisfaction = "3/5": ticket285, ticket348
+inquiry_type = "Fund Transfer"; resolution_time = "14m"; customer_satisfaction = "1/5": ticket286, ticket330
+inquiry_type = "Mobile App Assistance"; resolution_time = "13m"; customer_satisfaction = "2/5": ticket287
+inquiry_type = "New Account Setup"; resolution_time = "17m"; customer_satisfaction = "4/5": ticket288, ticket421
+inquiry_type = "Account Balance"; resolution_time = "16m"; customer_satisfaction = "1/5": ticket290, ticket322
+inquiry_type = "New Account Setup"; resolution_time = "16m"; customer_satisfaction = "4/5": ticket291
+inquiry_type = "Account Balance"; resolution_time = "5m"; customer_satisfaction = "2/5": ticket292
+inquiry_type = "New Account Setup"; resolution_time = "17m"; customer_satisfaction = "2/5": ticket296
+inquiry_type = "New Account Setup"; resolution_time = "2m"; customer_satisfaction = "1/5": ticket297, ticket456
+inquiry_type = "Fund Transfer"; resolution_time = "20m"; customer_satisfaction = "5/5": ticket301, ticket406
+inquiry_type = "Account Balance"; resolution_time = "10m"; customer_satisfaction = "3/5": ticket302, ticket460
+inquiry_type = "Account Deactivation"; resolution_time = "20m"; customer_satisfaction = "3/5": ticket303, ticket407
+inquiry_type = "Mobile App Assistance"; resolution_time = "16m"; customer_satisfaction = "2/5": ticket306
+inquiry_type = "Payment Issue"; resolution_time = "6m"; customer_satisfaction = "4/5": ticket309
+inquiry_type = "Fund Transfer"; resolution_time = "15m"; customer_satisfaction = "4/5": ticket310
+inquiry_type = "Payment Issue"; resolution_time = "13m"; customer_satisfaction = "1/5": ticket312, ticket500
+inquiry_type = "Account Deactivation"; resolution_time = "7m"; customer_satisfaction = "5/5": ticket313, ticket324
+inquiry_type = "New Account Setup"; resolution_time = "12m"; customer_satisfaction = "4/5": ticket315
+inquiry_type = "Payment Issue"; resolution_time = "18m"; customer_satisfaction = "2/5": ticket317
+inquiry_type = "New Account Setup"; resolution_time = "15m"; customer_satisfaction = "2/5": ticket318
+inquiry_type = "Mobile App Assistance"; resolution_time = "3m"; customer_satisfaction = "3/5": ticket319, ticket377
+inquiry_type = "Account Deactivation"; resolution_time = "20m"; customer_satisfaction = "2/5": ticket320, ticket393
+inquiry_type = "Account Deactivation"; resolution_time = "3m"; customer_satisfaction = "3/5": ticket326
+inquiry_type = "Fund Transfer"; resolution_time = "9m"; customer_satisfaction = "4/5": ticket328, ticket350
+inquiry_type = "Fund Transfer"; resolution_time = "17m"; customer_satisfaction = "1/5": ticket331
+inquiry_type = "Password Reset"; resolution_time = "6m"; customer_satisfaction = "2/5": ticket332, ticket405
+inquiry_type = "Account Balance"; resolution_time = "17m"; customer_satisfaction = "4/5": ticket333
+inquiry_type = "Password Reset"; resolution_time = "8m"; customer_satisfaction = "1/5": ticket336, ticket448
+inquiry_type = "New Account Setup"; resolution_time = "12m"; customer_satisfaction = "5/5": ticket337
+inquiry_type = "Password Reset"; resolution_time = "20m"; customer_satisfaction = "2/5": ticket338
+inquiry_type = "Password Reset"; resolution_time = "10m"; customer_satisfaction = "2/5": ticket339, ticket396
+inquiry_type = "Mobile App Assistance"; resolution_time = "9m"; customer_satisfaction = "5/5": ticket342
+inquiry_type = "Fund Transfer"; resolution_time = "6m"; customer_satisfaction = "4/5": ticket344, ticket376
+inquiry_type = "Payment Issue"; resolution_time = "2m"; customer_satisfaction = "5/5": ticket347
+inquiry_type = "Account Balance"; resolution_time = "16m"; customer_satisfaction = "4/5": ticket349, ticket392
+inquiry_type = "Mobile App Assistance"; resolution_time = "20m"; customer_satisfaction = "2/5": ticket354
+inquiry_type = "Account Deactivation"; resolution_time = "17m"; customer_satisfaction = "2/5": ticket355
+inquiry_type = "Account Balance"; resolution_time = "14m"; customer_satisfaction = "4/5": ticket357
+inquiry_type = "Mobile App Assistance"; resolution_time = "19m"; customer_satisfaction = "1/5": ticket358
+inquiry_type = "Payment Issue"; resolution_time = "13m"; customer_satisfaction = "2/5": ticket359
+inquiry_type = "Mobile App Assistance"; resolution_time = "4m"; customer_satisfaction = "5/5": ticket361
+inquiry_type = "Account Deactivation"; resolution_time = "15m"; customer_satisfaction = "2/5": ticket363
+inquiry_type = "Mobile App Assistance"; resolution_time = "20m"; customer_satisfaction = "1/5": ticket366
+inquiry_type = "Payment Issue"; resolution_time = "11m"; customer_satisfaction = "4/5": ticket367
+inquiry_type = "Account Balance"; resolution_time = "8m"; customer_satisfaction = "2/5": ticket370
+inquiry_type = "Password Reset"; resolution_time = "2m"; customer_satisfaction = "3/5": ticket371
+inquiry_type = "New Account Setup"; resolution_time = "3m"; customer_satisfaction = "4/5": ticket372
+inquiry_type = "Password Reset"; resolution_time = "3m"; customer_satisfaction = "5/5": ticket373
+inquiry_type = "Account Balance"; resolution_time = "19m"; customer_satisfaction = "5/5": ticket378
+inquiry_type = "Fund Transfer"; resolution_time = "3m"; customer_satisfaction = "3/5": ticket382
+inquiry_type = "Account Balance"; resolution_time = "17m"; customer_satisfaction = "5/5": ticket383
+inquiry_type = "Account Balance"; resolution_time = "17m"; customer_satisfaction = "3/5": ticket384
+inquiry_type = "Account Balance"; resolution_time = "8m"; customer_satisfaction = "5/5": ticket385
+inquiry_type = "Password Reset"; resolution_time = "13m"; customer_satisfaction = "2/5": ticket386
+inquiry_type = "Password Reset"; resolution_time = "16m"; customer_satisfaction = "3/5": ticket387
+inquiry_type = "Fund Transfer"; resolution_time = "19m"; customer_satisfaction = "1/5": ticket388
+inquiry_type = "New Account Setup"; resolution_time = "10m"; customer_satisfaction = "2/5": ticket389
+inquiry_type = "Password Reset"; resolution_time = "18m"; customer_satisfaction = "4/5": ticket391, ticket404
+inquiry_type = "Account Deactivation"; resolution_time = "12m"; customer_satisfaction = "2/5": ticket397
+inquiry_type = "Mobile App Assistance"; resolution_time = "11m"; customer_satisfaction = "4/5": ticket398
+inquiry_type = "Account Balance"; resolution_time = "16m"; customer_satisfaction = "5/5": ticket399
+inquiry_type = "Mobile App Assistance"; resolution_time = "9m"; customer_satisfaction = "3/5": ticket400
+inquiry_type = "Password Reset"; resolution_time = "16m"; customer_satisfaction = "5/5": ticket402
+inquiry_type = "Fund Transfer"; resolution_time = "13m"; customer_satisfaction = "1/5": ticket403
+inquiry_type = "Account Deactivation"; resolution_time = "2m"; customer_satisfaction = "1/5": ticket409
+inquiry_type = "New Account Setup"; resolution_time = "16m"; customer_satisfaction = "3/5": ticket410
+inquiry_type = "Mobile App Assistance"; resolution_time = "14m"; customer_satisfaction = "3/5": ticket411
+inquiry_type = "Fund Transfer"; resolution_time = "13m"; customer_satisfaction = "4/5": ticket413
+inquiry_type = "Mobile App Assistance"; resolution_time = "5m"; customer_satisfaction = "4/5": ticket414
+inquiry_type = "Mobile App Assistance"; resolution_time = "9m"; customer_satisfaction = "4/5": ticket415
+inquiry_type = "Account Deactivation"; resolution_time = "5m"; customer_satisfaction = "3/5": ticket416
+inquiry_type = "Payment Issue"; resolution_time = "20m"; customer_satisfaction = "2/5": ticket417
+inquiry_type = "Fund Transfer"; resolution_time = "14m"; customer_satisfaction = "3/5": ticket419
+inquiry_type = "Account Balance"; resolution_time = "15m"; customer_satisfaction = "5/5": ticket420
+inquiry_type = "Payment Issue"; resolution_time = "9m"; customer_satisfaction = "4/5": ticket423
+inquiry_type = "Payment Issue"; resolution_time = "11m"; customer_satisfaction = "2/5": ticket424
+inquiry_type = "New Account Setup"; resolution_time = "6m"; customer_satisfaction = "1/5": ticket427
+inquiry_type = "New Account Setup"; resolution_time = "14m"; customer_satisfaction = "5/5": ticket431
+inquiry_type = "Password Reset"; resolution_time = "7m"; customer_satisfaction = "5/5": ticket432
+inquiry_type = "New Account Setup"; resolution_time = "2m"; customer_satisfaction = "4/5": ticket436
+inquiry_type = "Account Balance"; resolution_time = "7m"; customer_satisfaction = "3/5": ticket437
+inquiry_type = "Password Reset"; resolution_time = "5m"; customer_satisfaction = "2/5": ticket439, ticket499
+inquiry_type = "Mobile App Assistance"; resolution_time = "18m"; customer_satisfaction = "2/5": ticket440
+inquiry_type = "Account Deactivation"; resolution_time = "17m"; customer_satisfaction = "4/5": ticket443
+inquiry_type = "Fund Transfer"; resolution_time = "11m"; customer_satisfaction = "2/5": ticket444
+inquiry_type = "Mobile App Assistance"; resolution_time = "4m"; customer_satisfaction = "1/5": ticket445
+inquiry_type = "Account Deactivation"; resolution_time = "16m"; customer_satisfaction = "4/5": ticket450
+inquiry_type = "Mobile App Assistance"; resolution_time = "4m"; customer_satisfaction = "2/5": ticket451
+inquiry_type = "New Account Setup"; resolution_time = "13m"; customer_satisfaction = "4/5": ticket457
+inquiry_type = "Fund Transfer"; resolution_time = "5m"; customer_satisfaction = "3/5": ticket458
+inquiry_type = "New Account Setup"; resolution_time = "11m"; customer_satisfaction = "2/5": ticket461
+inquiry_type = "Mobile App Assistance"; resolution_time = "15m"; customer_satisfaction = "3/5": ticket464
+inquiry_type = "Payment Issue"; resolution_time = "4m"; customer_satisfaction = "1/5": ticket467
+inquiry_type = "Payment Issue"; resolution_time = "7m"; customer_satisfaction = "5/5": ticket468
+inquiry_type = "Password Reset"; resolution_time = "19m"; customer_satisfaction = "2/5": ticket469
+inquiry_type = "New Account Setup"; resolution_time = "18m"; customer_satisfaction = "5/5": ticket470
+inquiry_type = "Account Deactivation"; resolution_time = "3m"; customer_satisfaction = "4/5": ticket473
+inquiry_type = "Account Balance"; resolution_time = "12m"; customer_satisfaction = "4/5": ticket474
+inquiry_type = "Account Deactivation"; resolution_time = "14m"; customer_satisfaction = "5/5": ticket476
+inquiry_type = "Password Reset"; resolution_time = "15m"; customer_satisfaction = "1/5": ticket477
+inquiry_type = "New Account Setup"; resolution_time = "3m"; customer_satisfaction = "3/5": ticket478
+inquiry_type = "Account Balance"; resolution_time = "19m"; customer_satisfaction = "4/5": ticket479
+inquiry_type = "Fund Transfer"; resolution_time = "15m"; customer_satisfaction = "3/5": ticket481
+inquiry_type = "Fund Transfer"; resolution_time = "4m"; customer_satisfaction = "5/5": ticket486
+inquiry_type = "Payment Issue"; resolution_time = "2m"; customer_satisfaction = "2/5": ticket489
+inquiry_type = "Password Reset"; resolution_time = "8m"; customer_satisfaction = "3/5": ticket490
+inquiry_type = "Account Balance"; resolution_time = "4m"; customer_satisfaction = "2/5": ticket491
+inquiry_type = "Account Balance"; resolution_time = "20m"; customer_satisfaction = "5/5": ticket492
+inquiry_type = "Password Reset"; resolution_time = "13m"; customer_satisfaction = "3/5": ticket493
+inquiry_type = "Account Deactivation"; resolution_time = "13m"; customer_satisfaction = "3/5": ticket494
+inquiry_type = "New Account Setup"; resolution_time = "17m"; customer_satisfaction = "3/5": ticket495
+inquiry_type = "Payment Issue"; resolution_time = "8m"; customer_satisfaction = "1/5": ticket496
+inquiry_type = "New Account Setup"; resolution_time = "8m"; customer_satisfaction = "5/5": ticket497
